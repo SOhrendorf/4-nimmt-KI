@@ -1,0 +1,15 @@
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\bin\Debug\net6.0\4-nimmt-Bot.exe
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\bin\Debug\net6.0\4-nimmt-Bot.deps.json
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\bin\Debug\net6.0\4-nimmt-Bot.runtimeconfig.json
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\bin\Debug\net6.0\4-nimmt-Bot.dll
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\bin\Debug\net6.0\4-nimmt-Bot.pdb
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.csproj.AssemblyReference.cache
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.AssemblyInfoInputs.cache
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.AssemblyInfo.cs
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.csproj.CoreCompileInputs.cache
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.dll
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\refint\4-nimmt-Bot.dll
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.pdb
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\4-nimmt-Bot.genruntimeconfig.cache
+C:\Users\sohre\OneDrive - St.-Franziskus-Schule - Gymnasium und Realschule\Schulfächer\Informatik\4-nimmt-Bot\obj\Debug\net6.0\ref\4-nimmt-Bot.dll
